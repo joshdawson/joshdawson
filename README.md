@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Josh Dawson
 
-<!--
-**joshdawson/joshdawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer & Architect**  
+📍 UK-based • 💻 Freelance  
 
-Here are some ideas to get you started:
+With over 8 years of experience in software development, I specialise in **Node.js**, **TypeScript**, and cloud-native architecture - especially on **AWS**. I’ve led high-impact projects from prototype to production, helped teams scale effectively, and integrated technologies like **OpenAI**, **OAuth**, and **CI/CD** into robust solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+- 🛠 Full stack development with a strong focus on shipping **reliable, effective solutions**
+- ☁️ Architecting cloud-native apps on **AWS**
+- 🔐 Building secure, scalable APIs with **OAuth**
+- 🤖 Exploring AI integrations and **LLMs** for business use
+- 🧪 Creating reliable systems with automated testing
+
+---
+
+## 💼 Let's Work Together
+
+I'm currently available for freelance work. Whether you're looking for a one-off consultation or a long-term collaborator, I'm open to hearing about your project.
+
+📧 **[Get in touch →](mailto:joshdawson@progmaticsoftware.co.uk)**
+
+---
+
+## 🌐 Online Presence
+
+- 🌍 [progmaticsoftware.co.uk](https://progmaticsoftware.co.uk)
+- 💼 [LinkedIn](https://linkedin.com/in/josh-dawson-674815228)
