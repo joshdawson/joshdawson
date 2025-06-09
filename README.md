@@ -28,4 +28,4 @@ I'm currently available for freelance work. Whether you're looking for a one-off
 ## 🌐 Online Presence
 
 - 🌍 [progmaticsoftware.co.uk](https://progmaticsoftware.co.uk)
-- 💼 [LinkedIn](https://www.linkedin.com/in/josh-dawson11/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/josh-dawson11/)
