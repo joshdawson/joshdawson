@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Josh Dawson
 
-**Full Stack Developer & Architect**  
+**Fractional Tech Lead • Technical Architect • Full Stack Developer**  
 📍 UK-based • 💻 Freelance  
 
-With over 8 years of experience in software development, I specialise in **Node.js**, **TypeScript**, and cloud-native architecture - especially on **AWS**. I’ve led high-impact projects from prototype to production, helped teams scale effectively, and integrated technologies like **OpenAI**, **OAuth**, and **CI/CD** into robust solutions.
+With over 9 years of experience in software development, I specialise in **Node.js**, **TypeScript**, and cloud-native architecture - especially on **AWS**. I’ve led high-impact projects from prototype to production, helped teams scale effectively, and integrated technologies like **OpenAI**, **OAuth**, and **CI/CD** into robust solutions.
 
 ---
 
