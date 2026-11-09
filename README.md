@@ -1,7 +1,7 @@
 👋 Hi, I'm Josh Dawson
 
 **Fractional Tech Lead • Technical Architect**
-📍 UK-based • 💼 Freelance via Progmatic Software
+📍 UK-based
 
 I look after the tech for non-technical founders and small teams. With 10 years building and running software products, from early prototypes to platforms with real users, I own the technical side so founders can focus on the business.
 
