@@ -1,31 +1,28 @@
-# 👋 Hi, I'm Josh Dawson
+👋 Hi, I'm Josh Dawson
 
-**Fractional Tech Lead • Technical Architect • Full Stack Developer**  
-📍 UK-based • 💻 Freelance  
+**Fractional Tech Lead • Technical Architect**
+📍 UK-based • 💼 Freelance via Progmatic Software
 
-With over 9 years of experience in software development, I specialise in **Node.js**, **TypeScript**, and cloud-native architecture - especially on **AWS**. I’ve led high-impact projects from prototype to production, helped teams scale effectively, and integrated technologies like **OpenAI**, **OAuth**, and **CI/CD** into robust solutions.
+I look after the tech for non-technical founders and small teams. With 10 years building and running software products, from early prototypes to platforms with real users, I own the technical side so founders can focus on the business.
 
----
+## 🚀 What I do
 
-## 🚀 What I Do
+- 🧭 Technical leadership for startups and small teams: architecture, infrastructure, security and delivery
+- ☁️ Cloud-native architecture on AWS and GCP
+- 🤖 AI and LLM-powered products, including RAG in production
+- 🔐 Security: secure APIs, auth, and vulnerability scanning in CI/CD
+- 🔎 Reviews of AI-built apps: what's risky, what to fix first, and whether it will hold up
 
-- 🛠 Full stack development with a strong focus on shipping **reliable, effective solutions**
-- ☁️ Architecting cloud-native apps on **AWS**
-- 🔐 Building secure, scalable APIs with **OAuth**
-- 🤖 Exploring AI integrations and **LLMs** for business use
-- 🧪 Creating reliable systems with automated testing
+## 🛠 Main stack
 
----
+Node.js • TypeScript • Python • AWS • GCP • PostgreSQL
 
-## 💼 Let's Work Together
+## 💼 Work with me
 
-I'm currently available for freelance work. Whether you're looking for a one-off consultation or a long-term collaborator, I'm open to hearing about your project.
+Available for fractional tech lead work and fixed-price reviews.
+📧 [Get in touch →](mailto:josh@progmaticsoftware.co.uk)
 
-📧 **[Get in touch →](mailto:joshdawson@progmaticsoftware.co.uk)**
+## 🌐 Elsewhere
 
----
-
-## 🌐 Online Presence
-
-- 🌍 [progmaticsoftware.co.uk](https://progmaticsoftware.co.uk)
+- 🌍 [progmaticsoftware.co.uk](https://progmaticsoftware.co.uk/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/josh-dawson11/)
